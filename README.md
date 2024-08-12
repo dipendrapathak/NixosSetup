@@ -1,6 +1,6 @@
 # Installation Instruction
 First, download the latest [release](https://github.com/nix-community/NixOS-WSL/releases/latest).
-Then open powershell, go to the Downloads directory.
+Then open powershell, and  go to the Downloads directory.
 ```Powershell
 wsl --import NixOS $env:USERPROFILE\NixOS\ nixos-wsl.tar.gz
 ```
